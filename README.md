@@ -1,7 +1,12 @@
 <h1 align="center">👋 Olá, eu sou Jycilene Oliveira</h1>
 
-<h3 align="center">Desenvolvedora Full Stack em formação Desenvolvedora Web Full Stack em formação 
- | React | Node.js | JavaScript | TypeScript | Java</h3>
+<h3 align="center">
+🌐 Desenvolvedora Web Full Stack em formação
+</h3>
+
+<p align="center">
+React • Node.js • JavaScript • TypeScript • Java
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+ADS;Desenvolvedora+Full+Stack+em+formação;Construindo+projetos+reais;Sempre+aprendendo+algo+novo&center=true&width=600&height=50">
@@ -102,6 +107,22 @@ Java • Robocode • POO
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jycilene&theme=tokyonight"/>
 
 </div>
+
+---
+
+## 🚀 Atualmente
+
+🌐 Desenvolvendo aplicações Web Full Stack
+
+⚛️ Aprendendo React e TypeScript
+
+🟢 Construindo APIs com Node.js
+
+☕ Aprimorando conhecimentos em Java e POO
+
+🗄️ Trabalhando com MySQL e SQL
+
+🚀 Criando projetos para portfólio e evolução profissional
 
 ---
 
