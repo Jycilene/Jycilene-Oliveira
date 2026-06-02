@@ -1,92 +1,150 @@
-<h1 align="center">Olá, eu sou Jycilene Oliveira 👋</h1>
+<h1 align="center">👋 Olá, eu sou Jycilene Oliveira</h1>
+
+<h3 align="center">Desenvolvedora Full Stack em formação Desenvolvedora Web Full Stack em formação 
+  React • Node.js • JavaScript • TypeScript • Java</h3>
 
 <p align="center">
-💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🚀 Em constante evolução na área de Desenvolvimento de Software <br>
-📍 Recife - PE | Brasil
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+ADS;Desenvolvedora+Full+Stack+em+formação;Construindo+projetos+reais;Sempre+aprendendo+algo+novo&center=true&width=600&height=50">
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
+## 🚀 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desenvolvimento de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Web Full Stack.
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, programação orientada a objetos, banco de dados e desenvolvimento Full Stack.
+Tenho interesse em criar aplicações modernas, responsivas e escaláveis, atuando tanto no Front-end quanto no Back-end.
 
-Busco oportunidades para adquirir experiência prática, contribuir em projetos reais e evoluir como desenvolvedora.
+Atualmente estou desenvolvendo projetos práticos para fortalecer meus conhecimentos em JavaScript, TypeScript, React, Node.js, Java e Banco de Dados.
 
----
+📍 Recife - PE
 
-## 🚀 Tecnologias
-
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" />
-</p>
-
-### Back-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,java" />
-</p>
-
-### Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedora
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jycilene&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jycilene&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nodejs,mysql,git,github,vscode"/>
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+## 📂 Projetos em Destaque
+
+### 🛒 Sistema de Balcão de Vendas e Controle Financeiro
+
+Sistema desenvolvido para gerenciamento comercial.
+
+✔ Cadastro de produtos
+
+✔ Controle de vendas
+
+✔ Relatórios financeiros
+
+✔ Banco de Dados SQL
+
+**Tecnologias:**
+Java • MySQL • Programação Orientada a Objetos
+
+---
+
+### 🤖 Robocode Inteligente
+
+Robô desenvolvido utilizando Java e conceitos avançados de POO.
+
+✔ Estratégias de combate
+
+✔ Movimentação inteligente
+
+✔ Leitura de sensores
+
+✔ Trabalho em equipe entre robôs
+
+**Tecnologias:**
+Java • Robocode • POO
+
+---
+
+### 🌐 Projetos Front-End
+
+✔ Interfaces Responsivas
+
+✔ HTML5
+
+✔ CSS3
+
+✔ JavaScript
+
+✔ React
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jycilene&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jycilene&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jycilene&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📚 Atualmente Aprendendo
 
 - Java
-- JavaScript
+- Estruturas de Dados
 - Programação Orientada a Objetos
 - React
 - Node.js
-- TypeScript
+- APIs REST
 - Banco de Dados SQL
-- Git e GitHub
 
 ---
 
-## 🎯 Objetivo
+## 🏆 Objetivos de Carreira
 
-Conquistar minha primeira oportunidade na área de tecnologia e crescer profissionalmente como Desenvolvedora Full Stack.
+✅ Conseguir estágio na área de desenvolvimento
+
+✅ Evoluir para Desenvolvedora Full Stack
+
+✅ Construir projetos cada vez mais completos
+
+✅ Contribuir com projetos open source
 
 ---
 
-## 🌎 Conecte-se comigo
+## 📫 Contato
 
-<a href="www.linkedin.com/in/jycilene-oliveira-aa2a55270">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="mailto:oliveirajycilene@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jycilene-oliveira-aa2a55270)
 
-</br>
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:oliveirajycilene@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
 
 ⭐ Obrigada por visitar meu perfil!
+
+💡 "Transformando aprendizado em projetos reais."
+
+</div>
