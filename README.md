@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Jycilene Oliveira</h1>
 
 <h3 align="center">Desenvolvedora Full Stack em formação Desenvolvedora Web Full Stack em formação 
-  React • Node.js • JavaScript • TypeScript • Java</h3>
+ | React | Node.js | JavaScript | TypeScript | Java</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+ADS;Desenvolvedora+Full+Stack+em+formação;Construindo+projetos+reais;Sempre+aprendendo+algo+novo&center=true&width=600&height=50">
